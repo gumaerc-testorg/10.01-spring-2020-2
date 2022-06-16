@@ -1,12 +1,13 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: 74b4d366-8dbf-48ed-fdc4-e9a91a80390b
 ---
 
-Note: For full bibliographic details on the readings and viewings listed below, see the [Readings and Viewings]({{< baseurl >}}/pages/readings-and-viewings) page.
+Note: For full bibliographic details on the readings and viewings listed below, see the [Readings and Viewings](/courses/10-01-ethics-for-engineers-spring-2020/pages/readings-and-viewings) page.
 
 {{< tableopen >}}
 {{< theadopen >}}
