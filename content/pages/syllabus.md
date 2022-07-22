@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: c7afa8dc-a12c-73da-bfe2-91544d57c38b
 ---
@@ -104,4 +107,4 @@ Note: Please print out all materials that you might need in class. No electronic
 Requirements for Students Taking Higher-Credit Versions of the Course
 ---------------------------------------------------------------------
 
-Two higher-credit versions of the course (6.9041 and 20.005) are offered in addition to the regular 6-credit version. Students enrolled in these versions of the course are required to complete extra work. For details on the expectations for this work, see the [Assignments]({{< baseurl >}}/pages/assignments) page.
+Two higher-credit versions of the course (6.9041 and 20.005) are offered in addition to the regular 6-credit version. Students enrolled in these versions of the course are required to complete extra work. For details on the expectations for this work, see the [Assignments](/courses/10-01-ethics-for-engineers-spring-2020/pages/assignments) page.
