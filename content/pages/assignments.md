@@ -1,37 +1,35 @@
 ---
 content_type: page
-description: ''
+description: assignments
+draft: false
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Assignments
 uid: ffa37a46-20f2-af2f-f24a-658af48d155b
 ---
+## Weekly Writing Assignments
 
-Weekly Writing Assignments
---------------------------
+Each week starting the second week of class, students must answer each of the [study questions](https://ocw.mit.edu/courses/10-01-ethics-for-engineers-spring-2020/pages/calendar) in a paragraph or so in the body of an email. These assignments are due each week at 11:59 pm the night before class.
 
-Each week starting the second week of class, students must answer each of the [study questions](/courses/10-01-ethics-for-engineers-spring-2020/pages/calendar) in a paragraph or so in the body of an email. These assignments are due each week at 11:59 pm the night before class.
-
-Requirements for Students Taking the Course for More than 6 Units
------------------------------------------------------------------
+## Requirements for Students Taking the Course for More than 6 Units
 
 ### Course version 6.9041
 
 For students in the 6.9041 version (12 units, [Independent Inquiry](http://catalog.mit.edu/degree-charts/electrical-engineering-computer-science-course-6-2/)), an additional 6 hours per week working on a project related to ethics and electical engineering / computer science is required. The student is expected to turn in a 20–25 page paper by the last class, in which the ethical and technical issues of a problem are analyzed. Students should start exploring options for their project area right away, and in addition to the work for the 6 unit version of the course, should email the following to their instructors as follows:
 
-*   Week 2: Submit 1–2 pages outlining various topics of inquiry, or one topic if student has already chosen it
-*   Week 3: Narrow down choice of topic and relate it to instructors
-*   Week 4: Provide detailed 1–2 page outline of project, including initial references
-*   Week 5: Further develop outline and list of key references
-*   Week 6: Start writing about the key issues and outline calculations, programming, and other technical aspects of the project
-*   Week 7: Continue to work on project and hand in current work product
-*   Week 8: Develop key ethical issues and hand in current work product
-*   Week 9: Develop key technical issues and hand in current work product
-*   Week 10: Start synthesis of ethical and technical issues; hand in current work product
-*   Week 11: Continue to work on project; hand in current work product
-*   Week 12: Continue to work on project; hand in current work product
-*   Last class: Full project due
+- Week 2: Submit 1–2 pages outlining various topics of inquiry, or one topic if student has already chosen it
+- Week 3: Narrow down choice of topic and relate it to instructors
+- Week 4: Provide detailed 1–2 page outline of project, including initial references
+- Week 5: Further develop outline and list of key references
+- Week 6: Start writing about the key issues and outline calculations, programming, and other technical aspects of the project
+- Week 7: Continue to work on project and hand in current work product
+- Week 8: Develop key ethical issues and hand in current work product
+- Week 9: Develop key technical issues and hand in current work product
+- Week 10: Start synthesis of ethical and technical issues; hand in current work product
+- Week 11: Continue to work on project; hand in current work product
+- Week 12: Continue to work on project; hand in current work product
+- Last class: Full project due
 
 Grading: the final project will count for 50% of the final grade.
 
@@ -45,10 +43,10 @@ As a general guideline, we expect you to work on this project for three hours pe
 
 The timeline for work on the project is as follows:
 
-*   Week 3: Submit a paragraph or so describing the subject matter of inquiry
-*   Week 6: Provide a detailed outline of the project, including key references
-*   Week 12: Finalize project
-*   Last class: Full project due
+- Week 3: Submit a paragraph or so describing the subject matter of inquiry
+- Week 6: Provide a detailed outline of the project, including key references
+- Week 12: Finalize project
+- Last class: Full project due
 
 Grading: the final project will count for 33% of the final grade.
 
